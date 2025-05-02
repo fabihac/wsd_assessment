@@ -18,33 +18,33 @@ src/
 
 ### Setup
 1.Prerequisites:
-Java JDK 11 or higher
-Gradle
-Chrome/Firefox browser
+-Java JDK 11 or higher
+-Gradle
+-Chrome
 
 2.Dependencies (add to suite.xml):
-Selenium WebDriver
-TestNG
-WebDriverManager
+-Selenium WebDriver
+-TestNG
+-WebDriverManager
 
 ### Running Tests
 Via TestNG:
-Run the TestNG XML configuration file
+-Run the TestNG XML configuration file
 
 ### Design Choices
 1.Page Object Model (POM)
-Separates test logic from page interactions
+2.Separates test logic from page interactions
 
 
 ### Test Coverage
 1.Contact Form
-Validation of empty fields
-Successful form submission
+-Validation of empty fields
+-Successful form submission
 
 2.Shopping Cart
-Add to cart functionality
-Quantity updates
-Price calculation verification
+-Add to cart functionality
+-Quantity updates
+-Price calculation verification
 
 
 
