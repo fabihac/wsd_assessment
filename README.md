@@ -26,14 +26,15 @@ src/
 - Selenium WebDriver
 - TestNG
 - WebDriverManager
-
+---
 ### Running Tests
 Via TestNG:
 - Run the TestNG XML configuration file
 
 ### Design Choices
-1.Page Object Model (POM)
-2.Separates test logic from page interactions
+- **Page Object Model (POM)**:
+- Separates test logic from UI element interactions.
+- Improves reusability and maintainability.
 
 
 ### Test Coverage
