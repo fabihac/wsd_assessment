@@ -15,8 +15,7 @@ src/
       suite.xml/        # 
     
 
-
-### Setup
+## Setup
 1.Prerequisites:
 - Java JDK 11 or higher
 - Gradle
@@ -26,18 +25,18 @@ src/
 - Selenium WebDriver
 - TestNG
 - WebDriverManager
----
-### Running Tests
+
+## Running Tests
 Via TestNG:
 - Run the TestNG XML configuration file
 
-### Design Choices
+## Design Choices
 - **Page Object Model (POM)**:
 - Separates test logic from UI element interactions.
 - Improves reusability and maintainability.
 
 
-### Test Coverage
+## Test Coverage
 1.Contact Form
 - Validation of empty fields
 - Successful form submission
