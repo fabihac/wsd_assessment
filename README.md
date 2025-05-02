@@ -30,7 +30,7 @@ Via TestNG:
 - Run the TestNG XML configuration file
 
 ## Design Choices
-- **Page Object Model (POM)**:
+1. **Page Object Model (POM)**:
 - Separates test logic from UI element interactions.
 - Improves reusability and maintainability.
 
