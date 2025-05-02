@@ -18,9 +18,9 @@ src/
 
 ### Setup
 1.Prerequisites:
--Java JDK 11 or higher
--Gradle
--Chrome
+- Java JDK 11 or higher
+- Gradle
+- Chrome
 
 2.Dependencies (add to suite.xml):
 -Selenium WebDriver
