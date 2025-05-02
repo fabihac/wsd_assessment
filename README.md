@@ -2,6 +2,7 @@
 ### This framework implements automated tests for the Practice Software Testing website using Java, Selenium WebDriver and TestNG.
 
 ## Project Structure
+<pre>
 src/
 test/
 java/
@@ -10,6 +11,7 @@ pages/ # Page Object Models for web pages
 testrunner/ # Testng runner classes
 resources/
 suite.xml # TestNG suite configuration
+</pre>
     
 
 ## Setup
