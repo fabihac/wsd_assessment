@@ -3,16 +3,13 @@
 
 ## Project Structure
 src/
-  test/
-    java/
-      com/
-        practice/
-          config/      # Configuration and driver management
-          pages/       # Page Object Models
-          testrunner/       # 
-          utils/       # 
-    resources/
-      suite.xml/        # 
+test/
+java/
+config/ # WebDriver and configuration setup
+pages/ # Page Object Models for web pages
+testrunner/ # Testng runner classes
+resources/
+suite.xml # TestNG suite configuration
     
 
 ## Setup
