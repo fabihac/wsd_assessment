@@ -4,13 +4,13 @@
 ## Project Structure
 <pre>
 src/
-test/
-java/
-config/ # WebDriver and configuration setup
-pages/ # Page Object Models for web pages
-testrunner/ # Testng runner classes
-resources/
-suite.xml # TestNG suite configuration
+    test/
+     java/
+        config/ # WebDriver and configuration setup
+        pages/ # Page Object Models for web pages
+        testrunner/ # Testng runner classes
+    resources/
+        suite.xml # TestNG suite configuration
 </pre>
     
 
