@@ -6,11 +6,11 @@
 src/
     test/
      java/
-        config/ # WebDriver and configuration setup
-        pages/ # Page Object Models for web pages
-        testrunner/ # Testng runner classes
+        config/        # WebDriver and configuration setup
+        pages/         # Page Object Models for web pages
+        testrunner/    # Testng runner classes
     resources/
-        suite.xml # TestNG suite configuration
+        suite.xml      # TestNG suite configuration
 </pre>
     
 
