@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<suite name="Automation">
+    <test name="Contanct page">
+
+        <classes>
+            <class name="testrunner.ContactPageRunner"/>
+        </classes>
+    </test>
+    <test name="Product Page">
+        <classes>
+            <class name="testrunner.ProductPageRunner"></class>
+        </classes>
+    </test>
+
+</suite>
